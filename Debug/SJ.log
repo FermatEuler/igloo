@@ -1,0 +1,4 @@
+﻿  seive.cpp
+c:\users\ecminer\documents\visual studio 2015\projects\sj\seive.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SJ.vcxproj -> C:\Users\ecminer\Documents\Visual Studio 2015\Projects\SJ\Debug\SJ.exe
+  SJ.vcxproj -> C:\Users\ecminer\Documents\Visual Studio 2015\Projects\SJ\Debug\SJ.pdb (Full PDB)
